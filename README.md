@@ -11,7 +11,6 @@ ResearchClaw is an emerging ecosystem of AI-powered research assistants, autonom
 - [OpenClaw Ecosystem & Research Tools](#openclaw-ecosystem--research-tools)
 - [Research Agents & AI Scientists](#research-agents--ai-scientists)
 - [Deep Research & Frameworks](#deep-research--frameworks)
-- [Skills & Plugins](#skills--plugins)
 - [Community & Learning](#community--learning)
 - [Related Awesome Lists](#related-awesome-lists)
 
@@ -76,29 +75,6 @@ Deep research agents and foundational frameworks for agent-driven scientific exp
 | 34 | [MiroFlow](https://github.com/MiroMindAI/miroflow) | MiroMindAI | 2.9k | — | — | — | — | — | Performance-first open-source agent framework — #1 on 5+ benchmarks, supports MiroThinker, Claude, Kimi, OpenAI. |
 | 35 | [CognitiveKernel-Pro](https://github.com/Tencent/CognitiveKernel-Pro) | Tencent AI Lab | 505 | — | — | — | △ | — | Tencent's deep research agent framework with agent foundation model training. |
 | 36 | [Simply](https://github.com/google-deepmind/simply) | Google DeepMind | 511 | ✓ | — | — | ✓ | — | Minimal JAX research codebase — designed for agents to read code, propose ideas, run experiments, and iterate. |
-
-## Skills & Plugins
-
-Reusable skills and plugins that extend ResearchClaw capabilities.
-
-### Built-in Skills (ResearchClaw)
-
-- `arxiv` — arXiv paper search and download
-- `citation_network` — Citation network exploration and visualization
-- `experiment_tracker` — Experiment lifecycle management
-- `figure_generator` — Academic figure generation
-- `literature_review` — Automated literature review workflow
-- `paper_summarizer` — Paper summarization and key insight extraction
-- `research_notes` — Structured note-taking (paper notes, idea notes, experiment notes)
-- `research_workflows` — Multi-stage research workflow management
-- `pdf` / `docx` / `pptx` / `xlsx` — Document format support
-
-### AutoResearchClaw Multi-Agent Subsystems
-
-- **CodeAgent** — Multi-phase code generation for experiments
-- **BenchmarkAgent** — Automatic dataset discovery and baseline comparison
-- **FigureAgent** — 5-agent pipeline: Planner → CodeGen → Renderer → Critic → Integrator
-- **Sentinel Watchdog** — Background quality monitor: NaN/Inf detection, citation scoring, anti-fabrication
 
 ## Community & Learning
 

@@ -12,7 +12,6 @@ ResearchClaw 是一个新兴的 AI 科研助手生态系统，涵盖自主论文
   - [OpenClaw 生态与科研工具](#openclaw-生态与科研工具)
   - [通用 Research Agent / AI Scientist](#通用-research-agent--ai-scientist)
   - [Deep Research 与框架](#deep-research-与框架)
-- [技能与插件](#技能与插件)
 - [社区与学习](#社区与学习)
 - [相关 Awesome 列表](#相关-awesome-列表)
 
@@ -75,29 +74,6 @@ ResearchClaw 是一个新兴的 AI 科研助手生态系统，涵盖自主论文
 | [simply](https://github.com/google-deepmind/simply) | Google DeepMind | 511 | ✓ | — | — | ✓ | — | 极简 JAX 研究底座，README 明写可让 agent 读代码、提想法、跑实验、反复迭代。 |
 
 ---
-
-## 技能与插件
-
-扩展 ResearchClaw 能力的可复用技能和插件。
-
-### 内置技能（ResearchClaw）
-
-- `arxiv` — arXiv 论文搜索与下载
-- `citation_network` — 引用网络探索与可视化
-- `experiment_tracker` — 实验生命周期管理
-- `figure_generator` — 学术图表生成
-- `literature_review` — 自动化文献综述工作流
-- `paper_summarizer` — 论文总结与关键洞察提取
-- `research_notes` — 结构化笔记（论文笔记、想法笔记、实验笔记）
-- `research_workflows` — 多阶段科研工作流管理
-- `pdf` / `docx` / `pptx` / `xlsx` — 文档格式支持
-
-### AutoResearchClaw 多 Agent 子系统
-
-- **CodeAgent** — 多阶段实验代码生成
-- **BenchmarkAgent** — 自动数据集发现与基线对比
-- **FigureAgent** — 5-Agent 流水线：规划 → 代码生成 → 渲染 → 评审 → 集成
-- **Sentinel Watchdog** — 后台质量监控：NaN/Inf 检测、引用评分、反造假
 
 ## 社区与学习
 
