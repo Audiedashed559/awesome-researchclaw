@@ -47,7 +47,7 @@ ResearchClaw 是一个新兴的 AI 科研助手生态系统，涵盖自主论文
 | [openclaw-engram](https://github.com/joshuaswarren/openclaw-engram) ![Stars](https://img.shields.io/github/stars/joshuaswarren/openclaw-engram?style=flat-square) | joshuaswarren | — | — | — | — | — | 本地优先的 agent 长期记忆层，markdown 存储，混合检索，跨会话保留研究上下文。 |
 | [SkillNet](https://github.com/zjunlp/SkillNet) ![Stars](https://img.shields.io/github/stars/zjunlp/SkillNet?style=flat-square) | ZJUNLP | — | — | — | — | — | 做 skill 的创建、评估、连接和发现，号称可搜 30 万+ community skills。 |
 | [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ![Stars](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | FreedomIntelligence | — | △ | △ | △ | — | 869 个医学/生物医药技能，把通用 agent 往 clinical、genomics、drug discovery 拉。 |
-| [Auto-claude-code-research-in-sleep](https://github.com/zhangchenhaobest/Auto-claude-code-research-in-sleep) ![Stars](https://img.shields.io/github/stars/zhangchenhaobest/Auto-claude-code-research-in-sleep?style=flat-square) | zhangchenhaobest | ✓ | △ | ✓ | ✓ | ✓ | ARIS：纯 Markdown 的轻量研究工作流，主打 cross-model review、idea discovery、experiment automation。 |
+| [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ![Stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square) | wanshuiyin | ✓ | △ | ✓ | ✓ | ✓ | ARIS：纯 Markdown 的轻量研究工作流，主打 cross-model review、idea discovery、experiment automation。 |
 
 ### 通用 Research Agent / AI Scientist
 

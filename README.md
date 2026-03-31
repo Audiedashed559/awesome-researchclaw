@@ -46,7 +46,7 @@ Projects directly related to the OpenClaw ecosystem — core platforms, skill li
 | [openclaw-engram](https://github.com/joshuaswarren/openclaw-engram) ![Stars](https://img.shields.io/github/stars/joshuaswarren/openclaw-engram?style=flat-square) | joshuaswarren | — | — | — | — | — | Local-first long-term memory layer for agents — markdown storage, hybrid retrieval, cross-session research context. |
 | [SkillNet](https://github.com/zjunlp/SkillNet) ![Stars](https://img.shields.io/github/stars/zjunlp/SkillNet?style=flat-square) | ZJUNLP | — | — | — | — | — | Skill creation, evaluation, connection, and discovery infrastructure — searches 300k+ community skills. |
 | [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ![Stars](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | FreedomIntelligence | — | △ | △ | △ | — | 869 medical/biomedical skills spanning clinical, genomics, and drug discovery domains. |
-| [ARIS](https://github.com/zhangchenhaobest/Auto-claude-code-research-in-sleep) ![Stars](https://img.shields.io/github/stars/zhangchenhaobest/Auto-claude-code-research-in-sleep?style=flat-square) | zhangchenhaobest | ✓ | △ | ✓ | ✓ | ✓ | Lightweight Markdown-only research workflow — cross-model review loops, idea discovery, and experiment automation. |
+| [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ![Stars](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=flat-square) | wanshuiyin | ✓ | △ | ✓ | ✓ | ✓ | Lightweight Markdown-only research workflow — cross-model review loops, idea discovery, and experiment automation. |
 
 ## Research Agents & AI Scientists
 
